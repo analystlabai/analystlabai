@@ -54,6 +54,7 @@ This repository is where Analyst Lab documents the work behind the ideas — fro
 ### 🔗 Analyst Lab
 
 Instagram: **@analystlab.ai**
+
 GitHub: **@analystlabai**
 
 More projects and insights coming soon.
